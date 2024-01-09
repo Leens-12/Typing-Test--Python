@@ -4,7 +4,7 @@
 This is a simple typing test program written in Python. It measures your typing speed, accuracy, and words per minute (WPM). The program randomly selects a sentence from a predefined list, and the user is prompted to type it as quickly and accurately as possible.
 
 ## **Project Information**
-- Program Name: War Card Game
+- Program Name: Typing Test
 - Last Modified: 29/12/2021
 - Author: Alina
 
